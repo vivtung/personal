@@ -1,0 +1,19 @@
+
+.car-tile .image-tile {
+	height: 300px;
+	background-size: contain;
+}
+
+.car-tile .car-price p{
+	color: blue;
+}
+
+
+.footer {
+	font-size: 36px;
+	margin: 0 auto;
+}
+
+.inputField div{
+	min-width: 200px;
+}

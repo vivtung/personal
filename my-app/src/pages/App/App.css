@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.banner {
+  display: table;
+  width: 100%;
+  background-image: url("../../assets/header.png");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.App-link {
+  color: #61dafb;
+}
